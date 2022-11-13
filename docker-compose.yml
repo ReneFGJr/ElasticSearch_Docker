@@ -227,3 +227,4 @@ volumes:
   esdata03:
     driver: local
   kibanadata:
+   driver: local
